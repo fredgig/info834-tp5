@@ -16,4 +16,4 @@ npm install
 npm run dev
 ```
 
-4. Acceder a l'application sur le naviguateur web depuis localhost:3000
+5. Acceder a l'application sur le naviguateur web depuis localhost:3000
